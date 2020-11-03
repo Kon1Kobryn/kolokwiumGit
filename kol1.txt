@@ -3,3 +3,4 @@ Naprawa01
 ZmianaProsta01
 ZmianaProsta02
 Zmiana04
+Zmiana05
