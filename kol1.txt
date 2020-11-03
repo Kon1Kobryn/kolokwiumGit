@@ -4,3 +4,4 @@ ZmianaProsta01
 ZmianaProsta02
 Zmiana04
 ZmianaKlon01
+Zmiana06
